@@ -2,3 +2,32 @@
     margin: 0;
     padding: 0;
 }
+header{
+    background-color: black;
+    display: flex;
+}
+.logo{
+    width: 100px;
+    margin-left: 100px;
+}
+#list{
+    color: white;
+    list-style: none;
+    margin-left: 100px;
+}
+#list_2{
+    color: white;
+    list-style: none;
+    margin-left: 600px;
+}
+li{
+    float: left;
+    text-align: center;
+    padding: 15px 15px;
+}
+.logo_2{
+    background-color: black;
+    width: 100px;
+   
+}
+
